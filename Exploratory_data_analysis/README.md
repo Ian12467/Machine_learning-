@@ -4,13 +4,9 @@
 
 #### Variables in the dataset
 
-age
-sex
-bmi
-children
-smoker: whether the individual is a smoker or not
-region
-charges: the cost of insurance for the individual
+Age, sex, bmi, region, children, region, 
+smoker: whether the individual is a smoker or not, 
+charges: the cost of insurance for the individual.
 
 ### Steps followed
 
@@ -21,8 +17,3 @@ charges: the cost of insurance for the individual
 * Visualize the distribution of the variables using histograms, density plots, and box plots
 * Check the relationship between variables using scatter plots, pair plots, and correlation matrix
 * Check the distribution of the categorical variables using bar plots and pie charts.
-
-## Table of contents
-File | Description
------------ | -----------
-.[Exploratory_data_analysis].(./Exploratory_data_analysis) | 
