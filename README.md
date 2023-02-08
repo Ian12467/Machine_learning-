@@ -10,6 +10,7 @@ In these projects we cover linear regression analysis, exploratory data analysis
 Directories | Description
 ----------- | -----------
 [Exploratory_data_analysis](./Exploratory_data_analysis) | Shows how dataset on insurance.csv file been used to carry out  Exploratory data analysis (EDA)
+[Linear_regression](./Linear_regression) | Involves training the dat and get evaluations aspects in terms of MAE, RMSE and MSE.
 
 ## Author
 
