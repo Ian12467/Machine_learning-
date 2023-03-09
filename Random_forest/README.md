@@ -12,5 +12,4 @@
 * Churn Model vs. Insurance Model: The churn model produced various results with high accuracy, indicating a good ensemble was achieved, while the insurance model produced average values.
 
 ### conclusion
-Random forest classifier with a homogeneous ensemble performed well on the churn dataset, while the performance on the insurance dataset was average. However, more information is needed to provide deeper insights into the analysis. 
-* For example, it would be helpful to know what features were used in the analysis, the size of the datasets, and whether any hyperparameter tuning was performed.
+Random forest classifier with a homogeneous ensemble performed well on the churn dataset, while the performance on the insurance dataset was average.
