@@ -13,7 +13,7 @@ Directories | Description
 [Linear_regression](./Linear_regression) | Involves training the dat and get evaluations aspects in terms of MAE, RMSE and MSE.
 [EDA_and_Logistic_regression](./EDA_and_Logistic_regression) | Used to predict whether a customer will churn.
 [Random_forest](./Random_forest) | used for Classification and Regression problems.
-[Esemble](./Esemble) |  use different base learning algorithms to directly ensure ensemble diversity.
+[Ensemble](./Ensemble) |  use different base learning algorithms to directly ensure ensemble diversity.
 
 ## Author
 
